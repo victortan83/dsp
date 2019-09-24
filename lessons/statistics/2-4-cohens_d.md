@@ -2,21 +2,23 @@
 
 
 
-        First borns are lighter than later born babies by about 2 ounces. But we'll look at a few statistics for details       
-        on the difference.
+        >> First borns are lighter than later born babies by about 2 ounces. But we'll look at a few statistics for details on the difference.   
 
-        Mean comparison:
-        All babies: 7.265628457623368
-        First born: 7.201094430437772
-        Others: 7.325855614973262
+>> Mean comparison:  
+>> All babies: 7.265628457623368  
+>> First born: 7.201094430437772  
+>> Others: 7.325855614973262  
 
-        First borns are lighter than others by 1.9961789525678455 ounces.
+>> First borns are lighter than others by 1.9961789525678455 ounces.  
 
-        Variance comparison
-        First born: 2.0180273009157768
-        Others: 1.9437810258964572
-        Cohen's d: -0.0886729270726
-    >>     
+>> Variance comparison  
+>> First born: 2.0180273009157768  
+>> Others: 1.9437810258964572  
+>> Cohen's d:  -0.0886729270726
+>>
+>>   
+
+        
 
         ```
         Python Code:
