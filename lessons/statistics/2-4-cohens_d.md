@@ -1,6 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
->> 
+
 
         First borns are lighter than later born babies by about 2 ounces. But we'll look at a few statistics for details       
         on the difference.
@@ -16,7 +16,7 @@
         First born: 2.0180273009157768
         Others: 1.9437810258964572
         Cohen's d: -0.0886729270726
-        
+    >>     
 
         ```
         Python Code:
