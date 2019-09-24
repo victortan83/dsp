@@ -18,6 +18,7 @@
         Cohen's d: -0.0886729270726
         
 
+        ```
         Python Code:
 
         import nsfg
@@ -56,3 +57,4 @@
         s = (len(firstborn) * var_firstborn + len(later) * var_later) / (len(firstborn)+len(later))
         d = (mean_firstborn - mean_later) / math.sqrt(s)
         print("\nCohen's d:", d)
+        ```
