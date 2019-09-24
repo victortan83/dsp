@@ -1,8 +1,8 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 
-
-        >> First borns are lighter than later born babies by about 2 ounces. But we'll look at a few statistics for details on the difference.   
+ >> First borns are lighter than later born babies by about 2 ounces. But we'll look at a few statistics for details on                         
+    the difference.   
 
 >> Mean comparison:  
 >> All babies: 7.265628457623368  
@@ -18,9 +18,6 @@
 >>
 >>   
 
-        
-
-        ```
         Python Code:
 
         import nsfg
@@ -59,4 +56,4 @@
         s = (len(firstborn) * var_firstborn + len(later) * var_later) / (len(firstborn)+len(later))
         d = (mean_firstborn - mean_later) / math.sqrt(s)
         print("\nCohen's d:", d)
-        ```
+     
