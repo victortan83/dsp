@@ -2,6 +2,11 @@
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
+
+
+```python
+
+
 import numpy as np
 import thinkstats2
 import thinkplot
@@ -11,7 +16,11 @@ pmf = thinkstats2.Pmf(t)
 thinkplot.Pmf(pmf, linewidth=0.1)
 thinkplot.Config(xlabel='Random variate', ylabel='PMF')
 
+>> ![pmf](img/pmf%20random.png)  
+
 
 cdf = thinkstats2.Cdf(t)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random variate', ylabel='CDF')
+![cdf](img/cdf%20random.png)  
+```
