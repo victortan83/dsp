@@ -8,7 +8,7 @@
 >> while the biased distribution is **2.4036** - a significant increase due to the bias.
 
 >> And here's a graph of the 2 distributions:  
->> ![pre](img/actual vs biased.png)  
+>> ![pre](img/actual%20vs%20biased.png)  
 
 
 
