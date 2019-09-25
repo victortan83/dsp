@@ -18,14 +18,15 @@ import thinkstats2
 import thinkplot
 
 ## Load data from previous
-resp = chap01soln.ReadFemResp()
+resp = nsfg.ReadFemResp()
 
 ## Create pmf and plot it
-pmf = thinkstats2.Pmf(resp['numkdhh'])
+pmf = thinkstats2.Pmf(resp.numkdhh, label='numkdhh')
 thinkplot.Pmf(pmf)
+thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 
 ## Function to find Biased PMF based on Think Stats text
-def BiasPmf(pmf, label=''):
+def BiasPmf(pmf, label):
     """Returns the Pmf with oversampling proportional to value.
 
     If pmf is the distribution of true values, the result is the
@@ -50,12 +51,12 @@ def BiasPmf(pmf, label=''):
     return new_pmf
 
 ## Create a biased PMF
-biasedpmf = BiasPmf(pmf)
+biased = BiasPmf(pmf, label='biased')
 
 ## Plot both PMFs in comparison
 thinkplot.PrePlot(2, cols=2)
-thinkplot.Pmfs([pmf, biasedpmf])
-thinkplot.Show()
+thinkplot.Pmfs([pmf, biased])
+thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 
 ## Compare their means:
 print('Mean of PMF: %r' %pmf.Mean())
