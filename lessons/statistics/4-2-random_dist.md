@@ -23,4 +23,4 @@ cdf = thinkstats2.Cdf(t)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random variate', ylabel='CDF')
 ![cdf](img/cdf%20random.png)  
-
+```
