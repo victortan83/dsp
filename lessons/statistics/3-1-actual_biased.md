@@ -13,7 +13,7 @@
 
 
 ```python
-import chap01soln
+import nsfg
 import thinkstats2
 import thinkplot
 
