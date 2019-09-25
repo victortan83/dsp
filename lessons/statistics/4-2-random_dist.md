@@ -16,7 +16,7 @@ pmf = thinkstats2.Pmf(t)
 thinkplot.Pmf(pmf, linewidth=0.1)
 thinkplot.Config(xlabel='Random variate', ylabel='PMF')
 
->> ![pmf](img/pmf%20random.png)  
+![pmf](img/pmf%20random.png)  
 
 
 cdf = thinkstats2.Cdf(t)
