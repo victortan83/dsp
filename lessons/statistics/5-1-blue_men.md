@@ -34,4 +34,4 @@ low, high, high-low
 ```
 >>(0.48963902786483265, 0.8323858654963063, 0.3427468376314737)
 
->>So about 34.21% of US male population are within the height range
+>>So about 34.27% of US male population are within the height range
