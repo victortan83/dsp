@@ -8,7 +8,7 @@
 >>Pearson's skewness: 0.7361105192428788
 >>Percent of respondants below mean income: 66.0005879566872
 
->> ![mean](img/mean%20vhousehold%20vincome.png)  
+>> ![mean](img/mean%20household%20vincome.png)  
 
 
 >> With upper bound set at $10,000,000:
@@ -20,7 +20,7 @@
 >>Percent of respondants below mean income: 85.65630665207664
 
 
->> ![mean](img/mean%20vhousehold%20vincome2.png)  
+>> ![mean](img/mean%20household%20vincome2.png)  
 ```
 import thinkstats2
 import thinkplot
