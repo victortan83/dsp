@@ -56,8 +56,11 @@ def Estimate6(lam=2, m=1000000):
 Estimate6()
 ```
 >> Experiment 4
+
 >> rmse L 1.4127193634972235
+
 >> mean error L -0.001214
+
 >> ![estimate](img/estimate.png) 
 ```
 # My conclusions:
