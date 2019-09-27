@@ -45,3 +45,5 @@ SimulateSample()
 >> standard error 0.8027780225313084
 >> confidence interval (1.2481410302870564, 3.616206557613092)
 >> 0.8027780225313084
+
+>> ![Sampling distribution](img/sampling%20distribution.png) 
