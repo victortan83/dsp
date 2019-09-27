@@ -47,7 +47,7 @@ def BinnedPercentiles(df):
 BinnedPercentiles(live)
 
 ```
-
+>> ![Percentiles](img/binned%20percentiles.png)  
 ```
 def ScatterPlot(ages, weights, alpha=1.0, s=20):
     """Make a scatter plot and save it.
@@ -65,7 +65,7 @@ def ScatterPlot(ages, weights, alpha=1.0, s=20):
     
 ScatterPlot(ages, weights, alpha=0.05, s=10)
 ```
-
+>> ![Scatterplot](img/scatter%20plot.png)  
 ```
 # Solution goes here
 # My conclusions:
