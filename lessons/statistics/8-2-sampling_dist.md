@@ -47,3 +47,20 @@ SimulateSample()
 >> 0.8027780225313084
 
 >> ![Sampling distribution](img/sampling%20distribution.png) 
+
+
+# My conclusions:
+
+# 1) With sample size 10:
+
+# standard error 0.762510819389
+# confidence interval (1.2674054394352277, 3.5377353792673705)
+
+# 2) As sample size increases, standard error and the width of
+#    the CI decrease:
+
+# 10      0.90    (1.3, 3.9)
+# 100     0.21    (1.7, 2.4)
+# 1000    0.06    (1.9, 2.1)
+
+# All three confidence intervals contain the actual value, 2.
