@@ -48,7 +48,7 @@ SimulateSample()
 
 >> ![Sampling distribution](img/sampling%20distribution.png) 
 
-
+```
 # My conclusions:
 
 # 1) With sample size 10:
@@ -64,3 +64,4 @@ SimulateSample()
 # 1000    0.06    (1.9, 2.1)
 
 # All three confidence intervals contain the actual value, 2.
+```
