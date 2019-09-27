@@ -23,6 +23,7 @@
 
 >> ![mean2](img/mean%20household%20income%202.png)  
 ```
+#Python Code
 import thinkstats2
 import thinkplot
 import hinc
