@@ -67,7 +67,6 @@ ScatterPlot(ages, weights, alpha=0.05, s=10)
 ```
 >> ![Scatterplot](img/scatter%20plot.png)  
 ```
-# Solution goes here
 # My conclusions:
 
 # 1) The scatterplot shows a weak relationship between the variables but
