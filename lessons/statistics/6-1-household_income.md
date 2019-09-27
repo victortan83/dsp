@@ -1,7 +1,12 @@
 [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60) (household income)
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+>> With upper bound set at $1,000,000:
+>>Mean Income: 74278.7075311872
+>>Median Income: 51226.93306562372
+>>Standard Deviation: 93946.9299634784
+>>Skewness: 4.949920244429579
+>>Pearson's skewness: 0.7361105192428788
+>>Percent of respondants below mean income: 66.0005879566872
 
 ```
 import thinkstats2
