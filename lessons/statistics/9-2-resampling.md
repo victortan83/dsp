@@ -59,12 +59,13 @@ def RunResampleTest(firsts, others):
  
  >> ts max = 0.23979257789515174
  
+ 
 
  >> diff means resample birthweight
  
  >> p-value = 0.0
  
- >> ctual = 0.12476118453549034
+ >> actual = 0.12476118453549034
  
  >> ts max = 0.119250558598619
  
