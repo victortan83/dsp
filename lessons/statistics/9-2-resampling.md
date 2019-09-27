@@ -52,13 +52,20 @@ def RunResampleTest(firsts, others):
  RunResampleTest(firsts, others)
  ```
  >> diff means resample preglength
+ 
  >> p-value = 0.1665
+ 
  >> actual = 0.07803726677754952
+ 
  >> ts max = 0.23979257789515174
+ 
 
  >> diff means resample birthweight
+ 
  >> p-value = 0.0
+ 
  >> ctual = 0.12476118453549034
+ 
  >> ts max = 0.119250558598619
  
  ```
