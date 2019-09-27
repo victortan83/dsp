@@ -21,7 +21,7 @@
 >> Percent of respondants below mean income: 85.65630665207664
 
 
->> ![mean2](img/mean%20household%20income 2.png)  
+>> ![mean2](img/mean%20household%20income%2.png)  
 ```
 import thinkstats2
 import thinkplot
