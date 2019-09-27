@@ -1,26 +1,27 @@
 [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60) (household income)
 
 >> With upper bound set at $1,000,000:
->>Mean Income: 74278.7075311872
->>Median Income: 51226.93306562372
->>Standard Deviation: 93946.9299634784
->>Skewness: 4.949920244429579
->>Pearson's skewness: 0.7361105192428788
->>Percent of respondants below mean income: 66.0005879566872
+
+>> Mean Income: 74278.7075311872
+>> Median Income: 51226.93306562372
+>> Standard Deviation: 93946.9299634784
+>> Skewness: 4.949920244429579
+>> Pearson's skewness: 0.7361105192428788
+>> Percent of respondants below mean income: 66.0005879566872
 
 >> ![mean](img/mean%20household%20income.png)  
 
 
 >> With upper bound set at $10,000,000:
->>Mean Income: 124267.39722164703
->>Median Income: 51226.93306562372
->>Standard Deviation: 559608.5013743478
->>Skewness: 11.603690267537795
->>Pearson's skewness: 0.39156194362653113
->>Percent of respondants below mean income: 85.65630665207664
+>> Mean Income: 124267.39722164703
+>> Median Income: 51226.93306562372
+>> Standard Deviation: 559608.5013743478
+>> Skewness: 11.603690267537795
+>> Pearson's skewness: 0.39156194362653113
+>> Percent of respondants below mean income: 85.65630665207664
 
 
->> ![mean](img/mean%20household%20income2.png)  
+>> ![mean2](img/mean%20household%20income2.png)  
 ```
 import thinkstats2
 import thinkplot
